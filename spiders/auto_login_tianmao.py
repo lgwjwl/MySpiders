@@ -7,8 +7,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as expected
 
-User_Id = '异国他乡之梦叶'
-User_Password = 'lg900608SM'
+User_Id = 'xxxx '
+User_Password = 'jjjjjj'
 url = "https://login.tmall.com/?"
 
 driver = Chrome()
